@@ -1,4 +1,4 @@
-# skill-obisidan
+# skill-obsidian
 
 Skill `/obsidian` para Claude: conecta o chat ao cofre Obsidian, e passa a alimentá-lo durante toda a conversa (decisões, pendências, pessoas, registro de sessões).
 
